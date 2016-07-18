@@ -1,2 +1,0 @@
-# sometime
-simple blog
